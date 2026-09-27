@@ -1,0 +1,181 @@
+[
+  {
+    "name": "T200_THRUSTER_BR-100545_BR-100228",
+    "url": "https://cad.bluerobotics.com/T200_THRUSTER_BR-100545_BR-100228.zip",
+    "source_page": "https://bluerobotics.com/learn/technical-reference/",
+    "retrieved": "2026-09-22",
+    "bytes": 22128590,
+    "sha256": "73c88f44eb6e89191c5e432d839c7bc3e6407cea87ef5a5c2ad6ece602c07103",
+    "files": [
+      "T200.STL",
+      "T200.STEP"
+    ],
+    "status": "retrieved"
+  },
+  {
+    "name": "WTE4_ACRYLIC_TUBES_BR-101052-XXX",
+    "url": "https://cad.bluerobotics.com/WTE4_ACRYLIC_TUBES_BR-101052-XXX.zip",
+    "source_page": "https://bluerobotics.com/learn/technical-reference/",
+    "retrieved": "2026-09-22",
+    "bytes": 1030344,
+    "sha256": "7e90debf5e779ef9faeceeb426c71f2d7aa010cf1fa45edf323ed9bfe040013f",
+    "files": [
+      "BR-101052-200_RevB/",
+      "BR-101052-200_RevB/BR-101052-200_RevB.STEP",
+      "BR-101052-200_RevB/BR-101052-200_RevB.STL",
+      "BR-101052-300_RevB/",
+      "BR-101052-300_RevB/BR-101052-300_RevB.STEP",
+      "BR-101052-300_RevB/BR-101052-300_RevB.STL",
+      "BR-101052-400_RevB/",
+      "BR-101052-400_RevB/BR-101052-400_RevB.STEP",
+      "BR-101052-400_RevB/BR-101052-400_RevB.STL"
+    ],
+    "status": "retrieved"
+  },
+  {
+    "name": "WTE4_ALUMINUM_TUBES_BR-106279-XXX",
+    "url": "https://cad.bluerobotics.com/WTE4_ALUMINUM_TUBES_BR-106279-XXX.zip",
+    "source_page": "https://bluerobotics.com/learn/technical-reference/",
+    "retrieved": "2026-09-22",
+    "bytes": 18963800,
+    "sha256": "29143ec9b68feb9e4c0417d709b2fbf6f9510c857051033738cc44b69df3bb85",
+    "files": [
+      "BR-106279-200_RevB.STEP",
+      "BR-106279-200_RevB.STL",
+      "BR-106279-300_RevB.STEP",
+      "BR-106279-300_RevB.STL",
+      "BR-106279-400_RevB.STEP",
+      "BR-106279-400_RevB.STL"
+    ],
+    "status": "retrieved"
+  },
+  {
+    "name": "WTE4_FLANGE_RAILS_BR-100665",
+    "url": "https://cad.bluerobotics.com/WTE4_FLANGE_RAILS_BR-100665.zip",
+    "source_page": "https://bluerobotics.com/learn/technical-reference/",
+    "retrieved": "2026-09-22",
+    "bytes": 5489811,
+    "sha256": "c47b6ef430c179d312f7889231f78f0a22bbc17614a9b5edb69f3efe17611e96",
+    "files": [
+      "BR-101040_RevC.stl",
+      "BR-101040_RevC.step"
+    ],
+    "status": "retrieved"
+  },
+  {
+    "name": "WTE4-M-LOCKING-FLANGE-SEAL-R1",
+    "url": "https://cad.bluerobotics.com/WTE4-M-LOCKING-FLANGE-SEAL-R1.zip",
+    "source_page": "https://bluerobotics.com/learn/technical-reference/",
+    "retrieved": "2026-09-22",
+    "bytes": 14881836,
+    "sha256": "9491ac26b1bfa3d9268219b1f7387e89ce677fa3d2365e33a0d783bb0df6dc20",
+    "files": [
+      "WTE4-M-LOCKING-FLANGE-SEAL-R1-RP.STEP",
+      "WTE4-M-LOCKING-FLANGE-SEAL-R1-RP.STL"
+    ],
+    "status": "retrieved"
+  },
+  {
+    "name": "WTE4_END_CAP_8xM14_7xM10_BR-102993-007",
+    "url": "https://cad.bluerobotics.com/WTE4_END_CAP_8xM14_7xM10_BR-102993-007.zip",
+    "source_page": "https://bluerobotics.com/learn/technical-reference/",
+    "retrieved": "2026-09-22",
+    "bytes": 2480238,
+    "sha256": "7980ff52141e25bf5c4157e508fbbe473f56fdd6c82ce078ff1c0973f603a807",
+    "files": [
+      "WTE4-M-END-CAP-8XM14-7XM10-R1.step",
+      "WTE4-M-END-CAP-8XM14-7XM10-R1.STL"
+    ],
+    "status": "retrieved"
+  },
+  {
+    "name": "WTE4_END_CAP_10xM10_BR-102993-002",
+    "url": "https://cad.bluerobotics.com/WTE4_END_CAP_10xM10_BR-102993-002.zip",
+    "source_page": "https://bluerobotics.com/learn/technical-reference/",
+    "retrieved": "2026-09-22",
+    "bytes": 320812,
+    "sha256": "e1b3c5f0bc5d4d239a33ce19fbcd96da68fc1ef030bb213a085ceeab0b754917",
+    "files": [
+      "WTE4-M-END-CAP-10XM10-R2.step",
+      "WTE4-M-END-CAP-10XM10-R2.STL"
+    ],
+    "status": "retrieved"
+  },
+  {
+    "name": "WTE4_DOME_AND_RETAINING_RING_BR-100495",
+    "url": "https://cad.bluerobotics.com/WTE4_DOME_AND_RETAINING_RING_BR-100495.zip",
+    "source_page": "https://bluerobotics.com/learn/technical-reference/",
+    "retrieved": "2026-09-22",
+    "bytes": 2247022,
+    "sha256": "7b08e06f8afab68e38952e383ec16189a830bd4a7a7dc649d78c5ca2d9b5aaae",
+    "files": [
+      "WTE4_DOME_AND_RETAINING_RING_BR-100495/",
+      "WTE4_DOME_AND_RETAINING_RING_BR-100495/WTE4-P-DOME-R4.IGS",
+      "WTE4_DOME_AND_RETAINING_RING_BR-100495/WTE4-P-DOME-R4.SLDPRT",
+      "WTE4_DOME_AND_RETAINING_RING_BR-100495/WTE4-P-DOME-R4.STEP",
+      "WTE4_DOME_AND_RETAINING_RING_BR-100495/WTE4-P-DOME-R4.STL",
+      "WTE4_DOME_AND_RETAINING_RING_BR-100495/WTE4-P-DOME-RETAINING-RING-R1.IGS",
+      "WTE4_DOME_AND_RETAINING_RING_BR-100495/WTE4-P-DOME-RETAINING-RING-R1.SLDPRT",
+      "WTE4_DOME_AND_RETAINING_RING_BR-100495/WTE4-P-DOME-RETAINING-RING-R1.STEP",
+      "WTE4_DOME_AND_RETAINING_RING_BR-100495/WTE4-P-DOME-RETAINING-RING-R1.STL"
+    ],
+    "status": "retrieved"
+  },
+  {
+    "name": "WTE4-P-DOME-R1",
+    "url": "https://cad.bluerobotics.com/WTE4-P-DOME-R1.zip",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "name": "WTE4-P-RETAINING-RING-R1",
+    "url": "https://cad.bluerobotics.com/WTE4-P-RETAINING-RING-R1.zip",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "name": "BAR02-ASM-R2-PUBLIC",
+    "url": "https://cad.bluerobotics.com/BAR02-ASM-R2-PUBLIC.zip",
+    "source_page": "https://bluerobotics.com/learn/technical-reference/",
+    "retrieved": "2026-09-22",
+    "bytes": 7719530,
+    "sha256": "b9012be206633e81fbbdd9aaac7bc64f5ba9b7efc752345521bc5a088bd14b81",
+    "files": [
+      "BAR02-ASM-R2-PUBLIC.IGS",
+      "BAR02-ASM-R2PUBLIC.SLDPRT",
+      "BAR02-ASM-R2-PUBLIC.STEP",
+      "BAR02-ASM-R2-PUBLIC.STL"
+    ],
+    "status": "retrieved"
+  },
+  {
+    "name": "CAM-USB-WIDE-R1",
+    "url": "https://cad.bluerobotics.com/CAM-USB-WIDE-R1.zip",
+    "source_page": "https://bluerobotics.com/learn/technical-reference/",
+    "retrieved": "2026-09-22",
+    "bytes": 191363,
+    "sha256": "a11427c54c9bd2353c75f94ece749bfff071ef2e21283152a6bc34b6c0f10690",
+    "files": [
+      "LOW-LIGHT-HD-USB-CAMERA-R1.IGS",
+      "LOW-LIGHT-HD-USB-CAMERA-R1.STEP",
+      "LOW-LIGHT-HD-USB-CAMERA-R1.STL",
+      "LOW-LIGHT-HD-USB-CAMERA-R1.SLDPRT"
+    ],
+    "status": "retrieved"
+  },
+  {
+    "name": "BESC30-R3",
+    "url": "https://cad.bluerobotics.com/BESC30-R3.zip",
+    "source_page": "https://bluerobotics.com/learn/technical-reference/",
+    "retrieved": "2026-09-22",
+    "bytes": 822190,
+    "sha256": "4d6a520ed738c241da74e6e473b639dc0fa553d87b6a88632e12c199ce6e5166",
+    "files": [
+      "BESC30-R3.STEP",
+      "BESC30-R3.IGS",
+      "BESC30-R3.SLDPRT",
+      "BESC30-R3.STL"
+    ],
+    "status": "retrieved"
+  }
+]

@@ -1,0 +1,143 @@
+Watertight Enclosures (WTE) Technical SpecificationsDatasheet Rev C.5 (May-2026)
+Series Diameter [mm] Tube Material / Finish (A) Tube ID[mm]
+ (B) Tube OD[mm]
+ (C) Overall Length ¹[mm]Weight[g] Depth Rating ² [msw]Item Number
+50(2")
+6061-T6 Aluminum, AnodizedØ50.0± 0.5Ø58.0± 0.2
+100 1691000BR-106277-100150 261 BR-106277-150300 536 BR-106277-300
+Cast AcrylicØ49.5± 1.5Ø58.0±1.0
+100 75 225BR-100230-101150 115130BR-100230-151300 238100BR-100230-301
+75(3")
+6061-T6 Aluminum, AnodizedØ79.0± 0.5Ø86.5± 0.3
+150 328
+1000
+BR-106278-150240 530 BR-106278-240300 665 BR-106278-300400 890 BR-106278-400
+Cast AcrylicØ76.2± 2.0Ø88.9± 0.7
+150 264275BR-102649-150240 442150BR-102649-240300 560135BR-102649-300400 758120BR-102649-400
+100(4")
+6061-T6 Aluminum, AnodizedØ103.0± 0.5Ø112.0± 0.3
+200 7071000BR-106279-200
+300 10661000BR-106279-300
+400 1426900BR-106279-400
+Cast AcrylicØ101.6± 2.1Ø114.3± 0.8
+200 488140BR-101052-200
+300 746100BR-101052-300
+Tubes
+400 100460 BR-101052-400
+130(5")
+6061-T6 Aluminum, AnodizedØ130 ± 0.5Ø138.7± 0.3
+300 14501000BR-106280-300
+500 2441650BR-106280-500
+150(6")
+6061-T6 Aluminum, AnodizedØ150 ± 0.5Ø163.9 ± 0.3
+300 2510800BR-106281-300
+500 4360800BR-106281-500
+200(8")
+6061-T6 Aluminum, AnodizedØ200 ± 0.5Ø214.2 ± 0.3
+300 3420800BR-106282-300
+500 5915800BR-106282-500
+¹ Overall tube length tolerance ± 0.5 mm² The depth ratings for cast acrylic components are applicable only for short-term submersions of less than two weeks. For longer submersion, use aluminum components only.
+Series Diameter [mm]Face SealO-ring Radial SealO-ringMaterial / Finish(D) Locking Cord Diameter [mm](E) Flange OD [mm] (F) Piston Diameter [mm](G) Piston Length [mm](H) Overall Length [mm](I) Inner Mounting Holes(J) Inner Mounting Hole CircleWeight [g] Item Number
+50(2")-030Buna-N 70A-031Buna-N 70A
+6061-T6 Aluminum, Anodized2.8 ± 0.2
+Ø58.0 ± 0.1Ø50.93± 0.0515.5 ± 0.121.5 ± 0.1
+4xM3x0.5
+Ø43.0 ± 0.141 BR-100276-998
+75(3")-148Buna-N 70A-150Buna-N 70A Ø88.9 ± 0.1Ø79.93± 0.05
+19.1 ± 0.127.0 ± 0.1
+Ø68.6 ± 0.181 BR-100647
+100(4")-154Buna-N 70A-154Buna-N 70A Ø114.3 ± 0.1Ø103.91± 0.05 Ø94.0 ± 0.1107 BR-100665
+Flanges130(5")-157Buna-N 70A-248Buna-N 70A Ø137.7 ± 0.1Ø130.89± 0.0528.0 ± 0.134.0 ± 0.1
+8xM3x0.5
+Ø115.0 ± 0.1238 BR-102200
+150(6")-162 Buna-N 70A-255 Buna-N 70A Ø165.4 ± 0.1Ø156.40± 0.0630.0 ± 0.136.0 ± 0.1 Ø142.0 ± 0.1308 BR-102201
+200(8")-170 Buna-N 70A-265Buna-N 70A Ø215.7 ± 0.1Ø205.91± 0.0736.0 ± 0.142.0 ± 0.1 Ø186.0 ± 0.1540 BR-102202
+
+Watertight Enclosures (WTE) Technical SpecificationsDatasheet Rev C.5 (May-2026)
+Series Diameter [mm] MaterialHole ConfigurationEndcap Screws (SS316 Socket Head Cap Screws)
+(K) Endcap Screw Hole Circle(L) Thickness [mm]Weight [g] Depth Rating²[msw]Item Number
+ Warning: Images not to scale
+50(2")
+Cast AcrylicBlank (No holes)6x M2x0.4-10Ø50.8 ± 0.164.85 min6.63 max17 500 BR-100094
+6061-T6 Aluminum, Anodized
+Blank (No holes)
+Note: Flange integral to endcap, does not require separate flange
+63
+1000
+BR-100276-9992x M10 Hole 59 BR-100276-0024x M10x1.5 Threaded 58 BR-100276-0041x M10 Hole8x M6x1 Threaded 60 BR-100276-009
+75(3")
+Cast AcrylicBlank (No holes)
+6x M3x0.5-12Ø82.6± 0.1
+97.47 min9.75 max58 400BR-100949-998
+6061-T6 Aluminum, Anodized
+Blank (No holes) 6 ± 0.11021000BR-100949-9994x M10 Hole 97 BR-100949-0047x M10 Hole 93 BR-100949-007
+100(4")
+Cast AcrylicBlank (No holes)6x M3x0.5-16
+Ø108.0± 0.1
+12.710.20 min12.75 max135 300BR-102993-998
+6061-T6 Aluminum, Anodized
+Blank (No holes)
+6x M3x0.5-1210 ± 0.1
+234
+1000
+BR-102993-9995x M10 Hole 223 BR-102993-00510x M10 Hole 212 BR-102993-0027x M10 Hole11x M10x1.5 Threaded 196 BR-102993-003
+4x M14 Hole1x M10 Hole 215 BR-102993-004
+8x M14 Hole2x M10 Hole 195 BR-102993-006
+8x M14x1.5 Threaded5x M10 Hole2x M10x1.5 Threaded 186 BR-102993-007
+130(5")
+7075-T6 Aluminum, Anodized
+Blank (No holes)
+10x M3x0.5-12Ø133.0± 0.1 10 ± 0.1
+427
+1000
+BR-102203-001
+5x M14 Hole5x M10 Hole 393 BR-102203-002
+10x M14 Hole7x M10 Hole 367 BR-102203-003
+End Caps
+11x M10 Hole15x M10x1.5 Threaded 369 BR-102203-004
+150(6")
+Cast AcrylicBlank (No holes)10x M3x0.5-16
+Ø158.7± 0.1
+12.710.20 min12.75 max331 150BR-100273-004
+6061-T6 Aluminum, Anodized
+Blank (No holes)
+10x M3x0.5-12
+6 ± 0.1
+359
+150
+BR-100273-003
+5x M10 Hole 353 BR-100273-002
+15x M10 Hole 339 BR-100273-001
+7075-T6 Aluminum, Anodized
+Blank (No holes)
+12 ± 0.1
+6871000BR-102205-001
+5x M10 Hole5x M14 Hole 6471000BR-102205-002
+16x M14 Hole13x M10 Hole 5661000BR-102205-003
+200(8")
+Cast AcrylicBlank (No holes)12x M3x0.5-16
+Ø209.1± 0.1 
+12.710.20 min12.75 max564 75 BR-101065-003
+6061-T6 Aluminum, Anodized
+Blank (No holes)
+12x M3x0.5-12
+6 ± 0.1599 75 BR-101065-002
+5x M10 Hole 592 BR-101065-001
+7075-T6 Aluminum, Anodized
+Blank (No holes)
+16 ± 0.1
+1458
+1000
+BR-102206-001
+5x M10 Hole5x M14 Hole 1370 BR-102206-002
+10x M10 Hole10x M14 Hole 1283 BR-102206-003
+16x M14 Hole14x M10 Hole 1191 BR-102206-004
+Series Diameter [mm]Material(M) Dome Internal Radius [mm]
+(N) Dome Wall Thickness [mm]Weight [g] Depth Rating [msw]Item Number
+50(2")Hardened PC DomePC Retaining Ring18.0  ± 0.12.50 ± 0.1015 1000BR-100859
+Domes
+75(3")Hardened PC DomePC Retaining Ring31.25  ± 0.103.1 ± 0.139 750 BR-101059
+100(4")
+Hardened PC DomePC Retaining Ring43.5  ± 0.13.75 ± 0.1081 500 BR-100495
+Hardened PC DomeAlum. Retaining Ring44.0  ± 0.15.8 ± 0.10160 1000BR-107201
+130(5")Hardened PC DomePC Retaining Ring53.5  ± 0.057.00 ± 0.05195 600 BR-102597

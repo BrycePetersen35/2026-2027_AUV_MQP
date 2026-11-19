@@ -1,0 +1,51 @@
+"version" "2022x"
+"materialSubType" "plastic"
+"albedo"  0.698039 0.698039 0.698039
+"albedoTexture" ""
+"metallic" 0.000000
+"roughness" 0.250000
+"roughnessTexture" ""
+"anisotropy" 0.000000
+"anisotropyRotation" 0.000000
+"normal" "C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS\data/DSPBR/real_view_legacy/textures\PlasticPolystyrene_normalmap.dds"
+"displacement" 0.000000
+"translucency" 0.000000
+"transparency" 0.000000
+"cutoutOpacity" 1.000000
+"cutoutOpacityTexture" ""
+"specular" 1.000000
+"specularTint"  1.000000 1.000000 1.000000
+"sheenColor"  0.000000 0.000000 0.000000
+"sheenRoughness" 0.500000
+"flakeCoverage" 0.000000
+"flakeColor"  0.698039 0.698039 0.698039
+"flakeSize" 0.000000
+"flakeRoughness" 0.000000
+"flipFlop" 0.000000
+"flipFlopColor"  0.698039 0.698039 0.698039
+"clearcoat" 0.000000
+"clearcoatRoughness" 0.000000
+"clearcoatNormal" ""
+"emissionColor"  0.698039 0.698039 0.698039
+"emissionValue" 0.000000
+"emissionMode" 0
+"emissionEnergyNormalization" 0
+"thinWalled" 1
+"ior" 1.500000
+"abbeNumber" 0.000000
+"attenuationColor"  0.698039 0.698039 0.698039
+"attenuationDistance" 0.000010
+"subsurfaceColor"  0.000000 0.000000 0.000000
+"subsurfaceAnisotropy" 0.000000
+"thinFilm" 0.000000
+"thinFilmThickness" 0.400000
+"thinFilmIOR" 2.000000
+"translucencyColor"  1.000000 1.000000 1.000000
+"displacementTexture" ""
+"thinFilmThicknessTexture" ""
+"metallicTexture" ""
+"transparencyTexture" ""
+"emissionColorTexture" ""
+"normalStrength" 1.000000
+"clearcoatNormalStrength" 1.000000
+"normalMap" 1
